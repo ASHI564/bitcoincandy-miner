@@ -1,4 +1,5 @@
 # 挖矿中文教程
+english please 
 
 
 1.获取钱包地址
